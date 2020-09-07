@@ -28,16 +28,12 @@ a {
     border-top-left-radius: 30px;
     border-bottom: double;
     height: 420px;
-    width: 70%;
+    width: 50%;
     margin: auto;
     text-align: center;
     display: flex;
     flex-direction: column;
     justify-content: center;
-}
-
-form {
-    /* font-size: 2rem; */
 }
 
 form label {
