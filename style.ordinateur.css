@@ -1,0 +1,57 @@
+.titre {
+    text-align: center;
+    font-size: 4rem;
+    color: darkblue;
+}
+
+.formulaire {
+    border: solid 4px darkblue;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    border-bottom: double;
+    height: 420px;
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+form label {
+    font-size: 2.5rem;
+    margin-bottom: 1.8rem;
+    color: darkblue;
+}
+
+.input {
+    font-size: 1.4rem;
+    border-radius: 30px;
+    background-color: yellow;
+    border: transparent;
+    margin-bottom: 1rem;
+    outline: none;
+}
+
+
+/* FORMULAIRE */
+
+.article {
+    margin: auto;
+    padding-top: 1rem;
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+article {
+    border: solid 3px darkblue;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    margin-right: 2rem;
+    margin-bottom: 1rem;
+    text-align: center;
+    width: 200px;
+    height: 410px;
+}
